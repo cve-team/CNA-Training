@@ -11,5 +11,5 @@
 8.  https://www.riskbasedsecurity.com/research/RBS-2016-004.pdf
 9.  https://support.citrix.com/article/CTX138627
 10. https://blogs.gentoo.org/ago/2017/04/27/imageworsener-two-left-shift/
-11. https://dojo.bullguard.com/blog/burglar-hacker-when-a-physical-security-is-compromised-by-iot-vulnerabilities/
+11. https://web.archive.org/web/20170818001707/https://dojo.bullguard.com/blog/burglar-hacker-when-a-physical-security-is-compromised-by-iot-vulnerabilities/
 
